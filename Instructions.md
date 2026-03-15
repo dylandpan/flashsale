@@ -1,14 +1,8 @@
-PLEASE NOTE THIS IS NOT DUE UNTIL MAR 16!!!!!!   Homework 7: When Your Startup's Flash Sale Almost Failed
+Homework 7: When Your Startup's Flash Sale Almost Failed
 =========================================================================================================
 
 *NOTE: For Parts II and III, please be sure to have your own code base and run experiements on your own, but consolidate your results with your Mock Interview group into a single report, where you compare/contrast all results.  Clearly identify the contributions from each individual on your team.  Each teammate should upload the shared report individually on Canvas (yes, replication for our records!).* 
 
-
-Part I: Building on Logical Clocks!
------------------------------------
-
-Please share your observations (likes/dislikes) about [Vector Clocks](https://en.wikipedia.org/wiki/Vector_clock) under "vectorclocks" on Piazza.  Construct a simple example of a problem Lamport's Logical Clocks cannot solve, but vector clocks can! :)
-Additionally, please comment on a project proposal that you think is really interesting on Piazza.  Try to identify what you like about it, and if you have any constructive feedback/ideas, that would be awesome!
 
 
 Part II: The (Simulated!) Problem
